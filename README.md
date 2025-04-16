@@ -12,6 +12,7 @@ Language C++ Object Oriented Programming
 ---Tetris Clone---
 
 Language: 8088 Assembly Language
+It will Run on Notepad++ with Assembly Language 8088 Integrated.
 Alt+R to run
 Alt+Enter full screen
 Use Left Right Arrow keys to move the blocks.
