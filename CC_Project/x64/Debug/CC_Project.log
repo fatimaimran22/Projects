@@ -1,0 +1,24 @@
+﻿  22L-6946.cpp
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(54,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(60,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(68,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(75,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(82,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(89,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(96,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.h(103,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(866,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(866,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(867,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(868,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(868,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(869,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(869,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(885,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(885,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(886,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(886,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Visual Studio\CC_Project\22L-6946.cpp(1222,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lexer_22L-6946.cpp
+  Generating Code...
+  CC_Project.vcxproj -> D:\Desktop\Visual Studio\CC_Project\x64\Debug\CC_Project.exe
