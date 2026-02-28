@@ -1,2 +1,0 @@
-Adadi num10 = 4 ::
-Adadi Marqazi num_10 = 6 ::
